@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/rakbuku/static/css/main.1231d4ad.css",
+    "main.js": "/rakbuku/static/js/main.cb2496fa.js",
+    "static/media/bg-desktop-dark.jpg": "/rakbuku/static/media/bg-desktop-dark.73e47dbb723ebc772ef0.jpg",
+    "index.html": "/rakbuku/index.html",
+    "main.1231d4ad.css.map": "/rakbuku/static/css/main.1231d4ad.css.map",
+    "main.cb2496fa.js.map": "/rakbuku/static/js/main.cb2496fa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1231d4ad.css",
+    "static/js/main.cb2496fa.js"
+  ]
+}
